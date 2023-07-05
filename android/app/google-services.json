@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "993218346956",
+    "project_id": "oliva-879be",
+    "storage_bucket": "oliva-879be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993218346956:android:a9d4c6650a7e3985172769",
+        "android_client_info": {
+          "package_name": "com.oliva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993218346956-gqvkvrip2jdqu30ducfu3mt3lobkrj2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQZNyx5_8XfyA0deCFK95-pWiCHu8F3Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993218346956-gqvkvrip2jdqu30ducfu3mt3lobkrj2e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "993218346956-ml4hi2tfs2qfkush28bprjo20brlooae.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.mmilad.sanati.oliva"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

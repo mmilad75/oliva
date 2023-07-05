@@ -1,0 +1,20 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "es2015",
+    "lib": ["ES2018"],
+    "allowJs": false,
+    "noImplicitAny": false,
+    "noImplicitThis": true,
+    "noUnusedLocals": true,
+    "noImplicitReturns": true,
+    "baseUrl": "./",
+    "paths": {
+      "test/*": ["test/*"],
+      "~/*": ["src/*"]
+    },
+    "typeRoots": ["node_modules/@types", "src/types"],
+    "experimentalDecorators": true
+  }
+}
